@@ -6,6 +6,7 @@
     "@vec/root-config": "http://localhost:9000/vec-root-config.js",
     "@vec/sidebar": "http://localhost:9001/vec-sidebar.js",
     "@marcas/vec": "http://localhost:8081/marcas-vec.js",
-    "@react-mf/styleguide": "https://react.microfrontends.app/styleguide/504c8516e30274fc0e3221a719d5355b14af9500/"
+    "@react-mf/styleguide/": "https://react.microfrontends.app/styleguide/504c8516e30274fc0e3221a719d5355b14af9500/",
+    "@react-mf/styleguide": "https://react.microfrontends.app/styleguide/504c8516e30274fc0e3221a719d5355b14af9500/react-mf-styleguide.js",
   }
 }
