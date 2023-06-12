@@ -3,6 +3,8 @@
     "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.5.5/lib/system/single-spa.min.js",
     "react": "https://cdn.jsdelivr.net/npm/react@16.13.1/umd/react.production.min.js",
     "react-dom": "https://cdn.jsdelivr.net/npm/react-dom@16.13.1/umd/react-dom.production.min.js",
-    "@marcas/vec": "http://localhost:8081/marcas-vec.js"
+    "@vec/root-config": "http://localhost:9000/vec-root-config.js",
+    "@vec/sidebar": "http://localhost:9001/vec-sidebar.js",
+    "@vec/auth": "http://localhost:8080/vec-auth.js",
   }
 }
