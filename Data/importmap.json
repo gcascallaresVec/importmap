@@ -5,6 +5,6 @@
     "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.9.0/lib/system/single-spa.min.js",
     "@vec/root-config": "https://mfroot.staging.vecfleet.io/vec-root-config.js",
     "@vec/sidebar": "https://api.staging.vecfleet.io/mfsidebar/vec-sidebar.js",
-    "@vec/auth": "https://api.staging.vecfleet.io/mfauthmf/vec-auth.js"
+    "@vec/auth": "https://api.staging.vecfleet.io/mfauth/vec-auth.js"
   }
 }
