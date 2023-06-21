@@ -5,6 +5,7 @@
     "react-dom": "https://cdn.jsdelivr.net/npm/react-dom@16.13.1/umd/react-dom.production.min.js",
     "@vec/root-config": "http://localhost:9000/vec-root-config.js",
     "@vec/sidebar": "http://localhost:9001/vec-sidebar.js",
-    "@vec/auth": "http://localhost:8080/vec-auth.js"
+    "@vec/auth": "http://localhost:8080/vec-auth.js",
+     "@vec/commons": "http://localhost:8081/vec-commons.js"
   }
 }
