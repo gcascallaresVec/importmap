@@ -6,6 +6,6 @@
     "@vec/root-config": "http://localhost:9000/vec-root-config.js",
     "@vec/sidebar": "http://localhost:9001/vec-sidebar.js",
     "@vec/auth": "http://localhost:8080/vec-auth.js",
-    "@vec/commons": "http://localhost:8081/vec-commons.js"
+    "@vec/commons": "http://localhost:9002/vec-commons.js"
   }
 }
