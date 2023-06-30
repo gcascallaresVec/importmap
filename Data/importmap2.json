@@ -7,5 +7,6 @@
     "@vec/sidebar": "http://localhost:9001/vec-sidebar.js",
     "@vec/auth": "http://localhost:8080/vec-auth.js",
     "@vec/commons": "http://localhost:9002/vec-commons.js"
+    "@vec/contacts":"http://localhost:9003/vec-contacts.js"
   }
 }
