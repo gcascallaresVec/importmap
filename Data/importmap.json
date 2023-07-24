@@ -6,6 +6,7 @@
     "@vec/root-config": "https://mfroot.staging.vecfleet.io/vec-root-config.js",
     "@vec/sidebar": "https://api.staging.vecfleet.io/mfsidebar/vec-sidebar.js",
     "@vec/auth": "https://api.staging.vecfleet.io/mfauth/vec-auth.js",
-    "@vec/commons": "https://api.staging.vecfleet.io/mfcommons/vec-commons.js"
+    "@vec/commons": "https://api.staging.vecfleet.io/mfcommons/vec-commons.js",
+    "@vec/contacts": "https://api.staging.vecfleet.io/mfcontacts/vec-contacts.js"
   }
 }
